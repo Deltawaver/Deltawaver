@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Background GIF](background.gif)
 <!--
 **Deltawaver/Deltawaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
