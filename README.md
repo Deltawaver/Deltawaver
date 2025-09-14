@@ -1,4 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#532746&lines=Welcome+to+this+boring+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=532746&center=true&width=577&lines=Welcome+to+this+boring+profile)](https://git.io/typing-svg)
 <img src="background.gif" alt="Background GIF" width="100%">
 <!--
 **Deltawaver/Deltawaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
